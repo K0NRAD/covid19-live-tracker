@@ -1,6 +1,6 @@
 # COVID19 Live Tracker #
 
-![M5Stick-C COVID19 Tracker](https://github.com/K0NRAD/covid19-live-tracker/blob/master/assets/m5stickc_covid19_live_tracker.jpg?raw=true )
+![M5Stick-C COVID19 Tracker](https://github.com/K0NRAD/covid19-live-tracker/blob/main/assets/m5stickc_covid19_live_tracker.jpg?raw=true )
 
 With the Corana Tracker you are always up to date with the COVID-19 infection, recovery and death tolls.
 
