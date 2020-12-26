@@ -14,4 +14,19 @@ button, Microphone, IR transmitter, 6-axis IMU (SH200Q) and 80 mAH battery.
 The firmware is created with the Arduino framework. [Visual Studio Code](https://code.visualstudio.com)
 with the [PlatformIO](https://platformio.org/platformio-ide) plugin is used as IDE.
 
+
+
 *Thanks for project information provided by @Niyas Thalappil*
+
+>Add a file with WIFI SSID and password to the source directory, name this file `credentials.h`.
+>The file `credentials.h` has the following content.
+>
+> ```c++
+>#ifndef COVIT19_LIVE_TRACKER_CREDNTIALS_H
+>#define COVIT19_LIVE_TRACKER_CREDNTIALS_H
+>
+>#define WIFI_SSID "SSID"       // Enter your SSID here
+>#define WIFI_PASS "PASSWORD"   // Enter your WiFi password here
+>
+>#endif //COVIT19_LIVE_TRACKER_CREDNTIALS_H
+```
